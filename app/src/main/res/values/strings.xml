@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ECommerce</string>
+    <string name="subtitle">Find and Discover</string>
+    <string name="signup">Sign Up Now</string>
+</resources>
